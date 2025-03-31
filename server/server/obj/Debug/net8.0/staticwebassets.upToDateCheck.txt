@@ -1,0 +1,17 @@
+wwwroot\pic1.jpg
+wwwroot\pic13.jpg
+wwwroot\pic14.jpg
+wwwroot\pic15.jpg
+wwwroot\pic16.gif
+wwwroot\pic17.webp
+wwwroot\pic18.jpg
+wwwroot\pic19.jpg
+wwwroot\pic2.jpg
+wwwroot\pic20.jpg
+wwwroot\pic3.jpg
+wwwroot\pic4.jpg
+wwwroot\pic5.jpg
+wwwroot\pic6.jpg
+wwwroot\pic7.jpg
+wwwroot\pic8.jpg
+wwwroot\Properties\launchSettings.json
