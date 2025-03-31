@@ -23,7 +23,7 @@
     "ContainingType": "server.Controllers.BuyController",
     "Method": "Save",
     "RelativePath": "api/Buy/Save",
-    "HttpMethod": "PUT",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -49,7 +49,7 @@
     "ContainingType": "server.Controllers.CategoryController",
     "Method": "Add",
     "RelativePath": "api/Category/addCategory",
-    "HttpMethod": "PUT",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -147,7 +147,7 @@
     "ContainingType": "server.Controllers.CategoryController",
     "Method": "Update",
     "RelativePath": "api/Category/updateCategory/{id}",
-    "HttpMethod": "POST",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -266,7 +266,7 @@
     "ContainingType": "server.Controllers.GameControllers",
     "Method": "Add",
     "RelativePath": "api/GameControllers/addGame",
-    "HttpMethod": "PUT",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -364,7 +364,7 @@
     "ContainingType": "server.Controllers.GameControllers",
     "Method": "Update",
     "RelativePath": "api/GameControllers/UpdateGame/{id}",
-    "HttpMethod": "POST",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -395,7 +395,7 @@
     "ContainingType": "server.Controllers.SaleDetailController",
     "Method": "AddSaleDetail",
     "RelativePath": "api/SaleDetail/AddSaleDetail/{id}",
-    "HttpMethod": "PUT",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [

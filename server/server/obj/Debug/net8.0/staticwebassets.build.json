@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zwmN9MJKn3jzJqPc1+lFRBI6xK6OwQF9DXPOCr/OdAQ=",
+  "Hash": "DGcMvoDrJDVkB1QV6cDVknDXD4FJ3rtd+54jw8vf+xY=",
   "Source": "server",
   "BasePath": "_content/server",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "server\\wwwroot",
       "Source": "server",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic1.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic1.jpg",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\pic1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic13.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic13.jpg",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic13#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\pic13.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic14.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic14.jpg",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic14#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\pic14.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic15.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic15.jpg",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic15#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\pic15.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic16.gif",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic16.gif",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic16#[.{fingerprint}]?.gif",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\pic16.gif"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic17.webp",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic17.webp",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic17#[.{fingerprint}]?.webp",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\pic17.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic18.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic18.jpg",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic18#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\pic18.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic19.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic19.jpg",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic19#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\pic19.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic2.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic2.jpg",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\pic2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic20.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic20.jpg",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic20#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\pic20.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic3.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic3.jpg",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\pic3.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic4.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic4.jpg",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\pic4.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic5.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic5.jpg",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\pic5.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic6.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic6.jpg",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\pic6.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic7.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic7.jpg",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\pic7.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic8.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic8.jpg",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "pic8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\pic8.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\Properties\\launchSettings.json",
+      "Identity": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\Properties\\launchSettings.json",
       "SourceId": "server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\",
       "BasePath": "_content/server",
       "RelativePath": "Properties/launchSettings#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -377,7 +377,7 @@
   "Endpoints": [
     {
       "Route": "pic1.3dvfa4acaq.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -422,7 +422,7 @@
     },
     {
       "Route": "pic1.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -459,7 +459,7 @@
     },
     {
       "Route": "pic13.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic13.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic13.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -496,7 +496,7 @@
     },
     {
       "Route": "pic13.jrk7tj9lu7.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic13.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic13.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -541,7 +541,7 @@
     },
     {
       "Route": "pic14.ffb1943ssf.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic14.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic14.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -586,7 +586,7 @@
     },
     {
       "Route": "pic14.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic14.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic14.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -623,7 +623,7 @@
     },
     {
       "Route": "pic15.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic15.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic15.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -660,7 +660,7 @@
     },
     {
       "Route": "pic15.z0cpfqb6sn.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic15.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic15.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -705,7 +705,7 @@
     },
     {
       "Route": "pic16.3v3mgmttla.gif",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic16.gif",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic16.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -750,7 +750,7 @@
     },
     {
       "Route": "pic16.gif",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic16.gif",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic16.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -787,7 +787,7 @@
     },
     {
       "Route": "pic17.7ucl9wld6y.webp",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic17.webp",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic17.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -832,7 +832,7 @@
     },
     {
       "Route": "pic17.webp",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic17.webp",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic17.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -869,7 +869,7 @@
     },
     {
       "Route": "pic18.idv08efjbf.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic18.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic18.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -914,7 +914,7 @@
     },
     {
       "Route": "pic18.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic18.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic18.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -951,7 +951,7 @@
     },
     {
       "Route": "pic19.jnifipz36z.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic19.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic19.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -996,7 +996,7 @@
     },
     {
       "Route": "pic19.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic19.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic19.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1033,7 +1033,7 @@
     },
     {
       "Route": "pic2.0zam86bmpg.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic2.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1078,7 +1078,7 @@
     },
     {
       "Route": "pic2.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic2.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1115,7 +1115,7 @@
     },
     {
       "Route": "pic20.8bvabeswe0.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic20.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic20.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1160,7 +1160,7 @@
     },
     {
       "Route": "pic20.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic20.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic20.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1197,7 +1197,7 @@
     },
     {
       "Route": "pic3.62r1n8p1cq.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic3.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1242,7 +1242,7 @@
     },
     {
       "Route": "pic3.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic3.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1279,7 +1279,7 @@
     },
     {
       "Route": "pic4.10lxi0z50e.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic4.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1324,7 +1324,7 @@
     },
     {
       "Route": "pic4.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic4.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1361,7 +1361,7 @@
     },
     {
       "Route": "pic5.i0o1x81lys.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic5.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1406,7 +1406,7 @@
     },
     {
       "Route": "pic5.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic5.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1443,7 +1443,7 @@
     },
     {
       "Route": "pic6.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic6.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1480,7 +1480,7 @@
     },
     {
       "Route": "pic6.kx1vuwbji6.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic6.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1525,7 +1525,7 @@
     },
     {
       "Route": "pic7.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic7.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1562,7 +1562,7 @@
     },
     {
       "Route": "pic7.mexkhkhdwn.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic7.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1607,7 +1607,7 @@
     },
     {
       "Route": "pic8.22iusr6o3w.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic8.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1652,7 +1652,7 @@
     },
     {
       "Route": "pic8.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\pic8.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\pic8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1689,7 +1689,7 @@
     },
     {
       "Route": "Properties/launchSettings.8hs4hsa6of.json",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\Properties\\launchSettings.json",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\Properties\\launchSettings.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1734,7 +1734,7 @@
     },
     {
       "Route": "Properties/launchSettings.json",
-      "AssetFile": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פרוייקט חנוכה\\api\\server\\server\\wwwroot\\Properties\\launchSettings.json",
+      "AssetFile": "C:\\Users\\user\\Desktop\\חנוכה מההתחלה בה\\server\\server\\wwwroot\\Properties\\launchSettings.json",
       "Selectors": [],
       "ResponseHeaders": [
         {

@@ -20,7 +20,7 @@ namespace server.Controllers
             return I.GetAllcart();
         }
 
-        [HttpPut("Save")]
+        [HttpPost("Save")]
         public int? Save(BuyDTO b)
         {
             return I.SaveShopping(b);

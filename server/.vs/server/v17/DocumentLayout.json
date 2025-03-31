@@ -1,38 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A93C365F-5801-42F8-9702-B456E09F79FB}|server\\server.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A93C365F-5801-42F8-9702-B456E09F79FB}|server\\server.csproj|solutionrelative:server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D2EC853-3F13-4556-BFA1-C08053FABCD7}|server\\server.csproj|c:\\users\\user\\desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\server\\controllers\\buycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2EC853-3F13-4556-BFA1-C08053FABCD7}|server\\server.csproj|solutionrelative:server\\controllers\\buycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A93C365F-5801-42F8-9702-B456E09F79FB}|server\\server.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A93C365F-5801-42F8-9702-B456E09F79FB}|server\\server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8D2EC853-3F13-4556-BFA1-C08053FABCD7}|server\\server.csproj|c:\\users\\user\\desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\server\\controllers\\saledetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2EC853-3F13-4556-BFA1-C08053FABCD7}|server\\server.csproj|solutionrelative:server\\controllers\\saledetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A93C365F-5801-42F8-9702-B456E09F79FB}|server\\server.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A93C365F-5801-42F8-9702-B456E09F79FB}|server\\server.csproj|solutionrelative:server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8D2EC853-3F13-4556-BFA1-C08053FABCD7}|server\\server.csproj|c:\\users\\user\\desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\server\\controllers\\gamecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2EC853-3F13-4556-BFA1-C08053FABCD7}|server\\server.csproj|solutionrelative:server\\controllers\\gamecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A93C365F-5801-42F8-9702-B456E09F79FB}|server\\server.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A93C365F-5801-42F8-9702-B456E09F79FB}|server\\server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D2EC853-3F13-4556-BFA1-C08053FABCD7}|server\\server.csproj|c:\\users\\user\\desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\server\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2EC853-3F13-4556-BFA1-C08053FABCD7}|server\\server.csproj|solutionrelative:server\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A93C365F-5801-42F8-9702-B456E09F79FB}|server\\server.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A93C365F-5801-42F8-9702-B456E09F79FB}|server\\server.csproj|solutionrelative:server\\server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A93C365F-5801-42F8-9702-B456E09F79FB}|server\\server.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A93C365F-5801-42F8-9702-B456E09F79FB}|server\\server.csproj|solutionrelative:server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB01D12C-6EFA-4B61-8C1B-52F040F32683}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\dal\\models\\gamesshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB01D12C-6EFA-4B61-8C1B-52F040F32683}|DAL\\DAL.csproj|solutionrelative:dal\\models\\gamesshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A93C365F-5801-42F8-9702-B456E09F79FB}|server\\server.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A93C365F-5801-42F8-9702-B456E09F79FB}|server\\server.csproj|solutionrelative:server\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D2EC853-3F13-4556-BFA1-C08053FABCD7}|server\\server.csproj|c:\\users\\user\\desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2EC853-3F13-4556-BFA1-C08053FABCD7}|server\\server.csproj|solutionrelative:server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,104 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 500,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "server\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "server\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SaleDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\server\\Controllers\\SaleDetailController.cs",
+              "RelativeDocumentMoniker": "server\\Controllers\\SaleDetailController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\server\\Controllers\\SaleDetailController.cs",
+              "RelativeToolTip": "server\\Controllers\\SaleDetailController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAxwBYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T21:36:25.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T11:32:37.923Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "server\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\appsettings.Development.json",
-              "RelativeToolTip": "server\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-25T21:32:46.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\appsettings.json",
-              "RelativeDocumentMoniker": "server\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\appsettings.json",
-              "RelativeToolTip": "server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-25T21:28:55.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "server.http",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\server.http",
-              "RelativeDocumentMoniker": "server\\server.http",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\server.http",
-              "RelativeToolTip": "server\\server.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-25T21:27:31.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "server\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "server\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Title": "GameControllers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\server\\Controllers\\GameControllers.cs",
+              "RelativeDocumentMoniker": "server\\Controllers\\GameControllers.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\server\\Controllers\\GameControllers.cs",
+              "RelativeToolTip": "server\\Controllers\\GameControllers.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T21:21:48.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GamesShopContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\DAL\\Models\\GamesShopContext.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\GamesShopContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\DAL\\Models\\GamesShopContext.cs",
-              "RelativeToolTip": "DAL\\Models\\GamesShopContext.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAUwEUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T07:36:29.303Z"
+              "WhenOpened": "2025-03-26T11:32:19.657Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\Program.cs",
-              "RelativeDocumentMoniker": "server\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\Program.cs",
-              "RelativeToolTip": "server\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwDcAAAANAAAAAAAAAA==",
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\server\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "server\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\server\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "server\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T07:35:42.721Z"
+              "WhenOpened": "2025-03-26T11:31:59.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "server\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D7\u05E0\u05D5\u05DB\u05D4\\api\\server\\server\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "server\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\server\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "server\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\server\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "server\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T07:19:12.765Z"
+              "WhenOpened": "2025-03-26T11:31:36.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuyController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\server\\Controllers\\BuyController.cs",
+              "RelativeDocumentMoniker": "server\\Controllers\\BuyController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05DC\u05D4\u05E2\u05DC\u05D4 \u05DC\u05D2\u05D9\u05D8\\server\\server\\Controllers\\BuyController.cs",
+              "RelativeToolTip": "server\\Controllers\\BuyController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA+wBcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:31:14.346Z",
+              "EditorCaption": ""
             }
           ]
         }

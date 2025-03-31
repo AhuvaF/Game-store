@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using DTO.classes;
 using Microsoft.Data.SqlClient;
 namespace server
+
 {
     public class Program
     {
@@ -28,7 +29,7 @@ namespace server
                 });
             });
 
-            
+
             // Add services to the container.
 
             builder.Services.AddControllers();
@@ -49,12 +50,9 @@ namespace server
             builder.Services.AddScoped<IstoreDAL<SaleDetail>, StoreDAL<SaleDetail>>();
 
 
-                builder.Services.AddAutoMapper(typeof(Program));
+            builder.Services.AddAutoMapper(typeof(Program));
             builder.Services.AddDbContext<GamesShopContext>
             (options => options.UseSqlServer("Data Source=localhost;Initial Catalog=GamesShop;Integrated Security=True;TrustServerCertificate=True;MultipleActiveResultSets=True"));
-
-           // builder.WebHost.UseUrls("https://localhost:44368");
-
 
             var app = builder.Build();
             app.UseCors("AllowAll");

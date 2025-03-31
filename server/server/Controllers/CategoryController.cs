@@ -26,13 +26,13 @@ namespace server.Controllers
             return i.GetCategoryById(id);
         }
 
-        [HttpPost("updateCategory/{id}")]
+        [HttpPut("updateCategory/{id}")]
         public bool Update(int id, CategoryDTO c)
         {
             return i.Update(id, c);
         }
 
-        [HttpPut("addCategory")]
+        [HttpPost("addCategory")]
         public bool Add(CategoryDTO c)
         {
             return i.Add(c);

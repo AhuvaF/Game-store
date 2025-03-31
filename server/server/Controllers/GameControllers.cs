@@ -24,13 +24,13 @@ namespace server.Controllers
             return i.GetGameById(id);
         }
 
-        [HttpPost("UpdateGame/{id}")]
+        [HttpPut("UpdateGame/{id}")]
         public bool Update(int id, GameDTO c)
         {
             return i.UpdateGame(id, c);
         }
 
-        [HttpPut("addGame")]
+        [HttpPost("addGame")]
         public bool Add(GameDTO c)
         {
             return i.Add(c);

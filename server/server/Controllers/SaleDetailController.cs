@@ -20,7 +20,7 @@ namespace server.Controllers
         }
 
 
-        [HttpPut("AddSaleDetail/{id}")]
+        [HttpPost("AddSaleDetail/{id}")]
         public bool AddSaleDetail(List<ShoppingCartDTO> cart, int id)
         {
             return i.AddSaleDetail(cart, id);
